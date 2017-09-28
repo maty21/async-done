@@ -5,7 +5,7 @@ a simple semaphore library that allows you to run async unit tests(in libraries 
 
 ### installation 
 ```
-npm install async-done
+npm install await-done
 
 ```
 
