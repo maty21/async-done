@@ -2,7 +2,7 @@
   "name": "await-done",
   "version": "1.0.0",
   "description": "a simple library that allows you to run async unit tests(in libraries like mocha or jest) and call done()  ",
-  "main": "./lib/async-done.js",
+  "main": "./lib/await-done.js",
   "directories": {
     "lib": "lib",
     "test": "test"
