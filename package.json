@@ -1,0 +1,40 @@
+{
+  "name": "async-done",
+  "version": "1.0.0",
+  "description": "a simple library that allows you to run async unit tests(in libraries like mocha or jest) and call done()  ",
+  "main": "./lib/async-done.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maty21/async-done.git"
+  },
+  "keywords": [
+    "mocha",
+    "jest",
+    "async",
+    "await",
+    "semaphore",
+    "mutex",
+    "unit",
+    "tests",
+    "test",
+    "done"
+  ],
+  "author": "maty zisserman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maty21/async-done/issues"
+  },
+  "homepage": "https://github.com/maty21/async-done#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "sinon": "^4.0.0"
+  }
+}
