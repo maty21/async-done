@@ -1,4 +1,4 @@
-#async-done
+# async-done
 
 a simple semaphore library that allows you to run async unit tests(in libraries like mocha or jest) and call done()
 
