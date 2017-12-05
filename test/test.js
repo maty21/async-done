@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 const sinon = require('sinon');
-const { callDone, done, semaphore } = require('../lib/async-done');
+const { callDone, done, semaphore } = require('../lib/await-done');
 
 
 let counterEvent = null;
